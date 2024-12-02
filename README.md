@@ -22,7 +22,6 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin
 
 Carry = AB + ACin + BCin
 
-![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
 
 **Figure -1 FULL ADDER**
 
@@ -30,7 +29,7 @@ Carry = AB + ACin + BCin
 
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow.
 
-![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/02b24f51-ab51-4304-9ad6-7b81ffc1ead5)
+
 
 Diff = A ⊕ B ⊕ Bin 
 
@@ -52,7 +51,8 @@ Borrow out = A'Bin + A'B + BBin
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:Nara Guna Susmitha RegisterNumber:24010204
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+Developed by:Nara Guna Susmitha RegisterNumber:24010204
 ![Screenshot 2024-12-02 104602](https://github.com/user-attachments/assets/e14be0f1-ebd6-4350-a615-fac1aa55379a)
 ![Screenshot 2024-12-02 105011](https://github.com/user-attachments/assets/983ce361-3091-4a23-9688-15f7d2997bd5)
 
