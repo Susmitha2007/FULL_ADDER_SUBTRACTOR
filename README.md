@@ -36,6 +36,8 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+![Screenshot 2024-12-04 135237](https://github.com/user-attachments/assets/9a2705ed-66fc-4b89-9d94-135edbe4a87d)
+![Screenshot 2024-12-04 135250](https://github.com/user-attachments/assets/e98ba271-7eb1-4c6f-a9ed-18debbbfb465)
 
 **Procedure**
 1.Type the program in Quartus software.
